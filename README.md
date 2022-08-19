@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafael Cabaço
+- 👋 Hi, I’m Rafael
 - 🌱 I graduated on Computers Science Engineering in Portugal, at the IPPortalegre to be more precise.
 
 <!---
